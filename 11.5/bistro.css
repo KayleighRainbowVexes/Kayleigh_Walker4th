@@ -45,11 +45,11 @@ nav ul ul { position: absolute;
 	padding: 0;
 	text-align: left;
 	display: none; 
-	nav li:hover ul { display: block; }
 }
 nav li { padding: 0.5em;
       display: inline-block;
 }
+nav li:hover ul { display: block; }
 nav ul ul li { border: 1px solid #00005D;
 	display: block;
 	width: 8em;
